@@ -31,7 +31,7 @@ a=input()
 b=input()
 swap(a,b)
 ~~~~~
-#OUTPUT
+# OUTPUT
 ![Screenshot 2023-10-20 091412-1](https://github.com/HariharanJayavel/Swapping-two-values/assets/144870546/bcc4366e-3246-4236-a169-7801ba7a1da5)
 
 
